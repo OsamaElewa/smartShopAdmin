@@ -1,0 +1,4 @@
+abstract class InspectAllProductsState{}
+class InspectAllProductsInitialState extends InspectAllProductsState{}
+class InspectAllProductsClearState extends InspectAllProductsState{}
+class InspectAllProductsChangedState extends InspectAllProductsState{}
